@@ -1,11 +1,9 @@
 # scANNA (Package Repository)
 
 
-This repository hosts the package for [scANNA: single-cell ANalysis using Neural Attention](https://icml-compbio.github.io/2022/papers/WCBICML2022_paper_18.pdf) (Preprint, submitted). To make package development and maintaining more efficient, we have located training scripts and tutorials in different repositories into different repositories, as listed below.
+This repository hosts the package for [scANNA: single-cell ANalysis using Neural Attention]() (Preprint, submitted). To make package development and maintaining more efficient, we have located training scripts and tutorials in different repositories into different repositories, as listed below.
 
-![scANNA_Diagram](scANNA_Diagram.png)
-
-[![arXiv:10.48550/arXiv.2206.04047](http://img.shields.io/badge/arXiv-110.48550/arXiv.2206.04047-A42C25.svg)](https://doi.org/10.48550/arXiv.2206.04047)
+![scANNA_Diagram](scANNA_overview.jpg)
 
 ## Installing scANNA
 ### Installing the GitHub Repository (Recommended)
@@ -41,9 +39,4 @@ We have compiled a set of notebooks as tutorials to showcase scANNA's capabiliti
 
 ## Trained Models
 TODO: Will be released with the next preprint for scANNA.
-## Citation
-If you found our work useful for your ressearch, please cite our preprint:
 
-```
-Coming Soon!
-```

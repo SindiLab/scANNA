@@ -1,7 +1,7 @@
 # scANNA (Package Repository)
 
 
-This repository hosts the package for [scANNA: single-cell ANalysis using Neural Attention]() (Preprint, submitted). To make package development and maintaining more efficient, we have located training scripts and tutorials in different repositories into different repositories, as listed below.
+This repository hosts the package for [scANNA: single-cell ANalysis using Neural Attention]() (Preprint, submitted). To make package maintenance more efficient, and to provide more specific tutorials on using scANNA, we have located tutorials in a dedicated repository, as listed below.
 
 ![scANNA_Diagram](scANNA_overview.jpg)
 

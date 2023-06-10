@@ -13,7 +13,7 @@ $ pip install git+https://github.com/SindiLab/scANNA.git
 ```
 or can be first cloned and then installed as the following:
 ```
-$ git clone https://github.com/SindiLab/N-ACT.git
+$ git clone https://github.com/SindiLab/scANNA.git
 $ pip install ./scANNA
 ```
 

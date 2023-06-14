@@ -8,13 +8,13 @@ This repository hosts the package for [scANNA: single-cell ANalysis using Neural
 
 ## Installing scANNA
 ### Installing the GitHub Repository (Recommended)
-scANNA can be installed using PyPI:
+scANNA requires ***Python 3.10*** and can be installed using PyPI:
 ```
 $ pip install git+https://github.com/SindiLab/scANNA.git
 ```
 or can be first cloned and then installed as the following:
 ```
-$ git clone https://github.com/SindiLab/N-ACT.git
+$ git clone https://github.com/SindiLab/scANNA.git
 $ pip install ./scANNA
 ```
 

@@ -43,7 +43,7 @@ def scanpy_to_dataloader(file_path: str = None,
         verbose: Verbosity option indicated as a boolean.
         raw_x:bool: This is a dataset- and platform-dependant variable. This
           option enables using the "raw" X matrix, as defined in Seurat. Useful
-          for when preprocessing in R and running N-ACT in PyTorch.
+          for when preprocessing in R and running scANNA in PyTorch.
 
     Returns:
         This function will return two dataloaders:

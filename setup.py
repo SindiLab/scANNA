@@ -11,7 +11,7 @@ setup(
     author="A. Ali Heydari, Oscar Davalos",
     author_email="aliheydari@ucdavis.edu",
     description=
-    "N-ACT: Automatic Cell-Type classification using Neural Attention models",
+    "scANNA: single-cell ANalysis using Neural Attention",
     long_description=readme,
     long_description_content_type="text/markdown",
     license="MIT",
